@@ -30,27 +30,27 @@ argparse
 ## 🚀 Usage
 1- Open the Notebook
 
-    - Launch Jupyter Notebook or JupyterLab:
+  - Launch Jupyter Notebook or JupyterLab:
 
-    ```bash
-    jupyter notebook
-    ```
+  ```bash
+  jupyter notebook
+  ```
     
-    - Open Acacus_Internship_Task.ipynb.
+  - Open Acacus_Internship_Task.ipynb.
 
 2- Run the Cells
 
-    - The notebook will:
+  - The notebook will:
 
-        1- Load YOLO and DeepSORT.
+    1- Load YOLO and DeepSORT.
 
-        2- Process input video or webcam.
+    2- Process input video or webcam.
 
-        3- Display the tracking and counting results in real-time or save to a file.
+    3- Display the tracking and counting results in real-time or save to a file.
 
 3- Change Input Source
 
-    - Update the notebook’s input path to your desired video file or webcam index (e.g., 0 for default webcam).
+  - Update the notebook’s input path to your desired video file or webcam index (e.g., 0 for default webcam).
 
 ## 📂 Project Structure
 
